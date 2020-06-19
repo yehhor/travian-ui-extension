@@ -1,0 +1,27 @@
+{
+  "name": "travian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resource-trader.js",
+  "dev-dependencies": {
+    "ts-loader": "^7.0.5",
+    "tslib": "^2.0.0",
+    "typescript": "^3.9.5",
+    "webpack-cli": "^3.3.12",
+    "webpack": "^4.43.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yehhor/travian-ui-extension.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yehhor/travian-ui-extension/issues"
+  },
+  "homepage": "https://github.com/yehhor/travian-ui-extension#readme"
+}
